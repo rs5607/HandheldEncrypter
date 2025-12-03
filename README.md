@@ -21,5 +21,5 @@ Carries out the current active mode. It will flash the RGB with the mode it is p
 	Down Button:
 Flashes the RGB with the current mode, displays the current key, and sets the input for the function with the switches that are currently activated.
 
-To Use: 
+	To Use: 
 Turn on the microcontroller and set the input you wish to encrypt using the switches. If you wish to randomize the key and the “n” value, press the up button the desired number of times. Using the down arrow, verify that the device is in encryption mode, indicated by a red flashing LED. Press the center button to perform the encryption. The output will be displayed on the LEDs. If you wish to decrypt the ciphertext, press the right or left button and verify that the device is in decryption mode by the blue flashing LED. Press the center button, and the LEDs will now show the original plaintext. DO NOT press the up button between encryption and decryption of the plaintext will be unrecoverable.
